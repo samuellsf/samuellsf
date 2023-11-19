@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
 <div>
-  <a href="https://github.com/Leyanedev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leyanedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Samuellsf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=16&theme=blue-green"/>
 
 
 ### 📲onde me encontrar📱
