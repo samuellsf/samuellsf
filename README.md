@@ -1,19 +1,15 @@
+### 📚Olá Devs, meu nome é Samuel e estou amando programação🖥️
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
-
  <br/>
 
-### 📚Olá Devs, meu nome é Samuel e estou amando programação🖥️
+
 ### 📲onde me encontrar📱
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://sujeitoprogramador.com)
 <a href="https://www.linkedin.com/in/samuel-ferreira-61770224a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.gitlab.com/samuel1990.sf.sf" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/samueluchir?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-![Samuellsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green)
-<div>
-<a href="https://github.com/samuellsf"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=6&theme=blue-green"/>
-</div>
+![Samuellsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green)  <a href="https://github.com/samuellsf"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=6&theme=blue-green"/>
 
 ## Tecnologias que eu uso no meu dia dia💻
 <div style="display: inline_block"><br/>
@@ -40,7 +36,7 @@
  ## Sobre mim😎
 
 Atualmente atuo num Projeto, que se intitula “Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java.
-Carrego muitas certificações e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
+certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
 
 >👩🏾‍💻 Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas.
 Trabalhando no Projeto Pessoa Legal onde estamos desenvolvendo,
@@ -49,7 +45,7 @@ Configuração de variável de ambiente no Windows e Linux.
 Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver)
 Acesso ssh ao servidor principal, zabbix, Git, Mysql
 Estudando na Devquest _ Dev em Dobro _ Devsuperior _ Alura _ Udemy
->
+
 >🌱 Aprendendo mais sobre: Java _ MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web,
 Ambiente de configuração de trabalho.
 
