@@ -1,6 +1,11 @@
 ### 📚Olá Devs, meu nome é Samuel e estou amando programação🖥️
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
+<div>
+  <a href="https://github.com/Leyanedev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leyanedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=dracula"/>
 
 
 ### 📲onde me encontrar📱
@@ -9,7 +14,7 @@
 <a href="https://www.gitlab.com/samuel1990.sf.sf" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/samueluchir?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-![Samuellsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green)  <a href="https://github.com/samuellsf"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=6&theme=blue-green"/>
+
 
 ## Tecnologias que eu uso no meu dia dia💻
 <div style="display: inline_block"><br/>
