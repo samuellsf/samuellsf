@@ -40,11 +40,8 @@
 
  ## Sobre mim😎
 
-Atualmente atuo num Projeto, que se intitula “Projeto Pessoa Legal, cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD). Esse projeto é liderado pelo Sr.Leandro Leal, Arquiteto java.
-certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github nas linguagens (HTML,CSS E JAVASPRINT)
-
 >👩🏾‍💻 Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas.
-Trabalhando no Projeto Pessoa Legal onde estamos desenvolvendo,
+>certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github usando (HTML,CSS E JAVASPRINT)
 >🎓 História de Usuário de acesso, cadastro e recuperação de senha.
 Configuração de variável de ambiente no Windows e Linux.
 Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver)
