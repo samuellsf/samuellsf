@@ -40,7 +40,7 @@
 
  ## Sobre mim😎
 
->Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas.
+>Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas pela faculdade Anhanguera Df
 >certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github usando (HTML,CSS E JAVASPRINT)
 >🎓 História de Usuário de acesso, cadastro e recuperação de senha.
 Configuração de variável de ambiente no Windows e Linux.
