@@ -58,4 +58,4 @@ Ambiente de configuração de trabalho.
 
  <br/>
 
- ![snake gif](https://github.com/samuellsf/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
