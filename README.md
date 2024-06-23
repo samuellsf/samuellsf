@@ -1,8 +1,8 @@
 <div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=true"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+❤️;Tenho+33+anos.;👩‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+👩‍💻;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+😎;Tenho+33+anos.;👩‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+👩‍💻;Sejam+Bem+Vindos!+😎)](https://git.io/typing-svg)
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
@@ -50,10 +50,10 @@
 >🎓 História de Usuário de acesso, cadastro e recuperação de senha.
 Configuração de variável de ambiente no Windows e Linux.
 Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver)
-Acesso ssh ao servidor principal, zabbix, Git, Mysql
+Acesso ssh ao servidor principal, zabbix, Git, Mysql,
 Estudando na Devquest _ Dev em Dobro _ Devsuperior _ Alura _ Udemy
 
->🌱 Aprendendo mais sobre: Java _ MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web,
+>🌱 Aprendendo mais sobre: Java _Desenvolvimento de tabelas,MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web,
 Ambiente de configuração de trabalho.
 
  <br/>
