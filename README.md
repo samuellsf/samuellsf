@@ -1,6 +1,5 @@
 <div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=true"/>
-</div>
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+😎;Tenho+33+anos.;👩‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+👩‍💻;Sejam+Bem+Vindos!+😎)](https://git.io/typing-svg)
  
