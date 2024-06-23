@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Samuel%20Ferreira&fontColor=Blue%20Blue%20&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff55c8&size=37&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+😎;Tenho+33+anos.;👩‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistema+👩‍💻;Sejam+Bem+Vindos!+height)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+😎;Tenho+33+anos.;👩‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistema+👩‍💻;Sejam+Bem+Vindos!+height)](https://git.io/typing-svg)
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
