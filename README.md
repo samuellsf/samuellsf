@@ -1,4 +1,9 @@
-### 📚Olá Devs, meu nome é Samuel e estou amando programação🖥️
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=header"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+❤️;Tenho+33+anos.;👩‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+👩‍💻;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
+ 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
  <br/>
 <div>
