@@ -14,8 +14,6 @@
 
 ![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuellsf&repo=samuellsf&theme=react)](htttps://github.com/samuellsf/samuellsf).
-
 
 ### 📲onde me encontrar📱
 <a href = "mailto:samuel1990.sf.sf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
