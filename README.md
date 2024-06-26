@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=16&theme=blue-green"/>
 
 ![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuellsf&repo=samuellsf&theme=react)](htttps://github.com/samuellsf/samuellsf).
 
 
 ### 📲onde me encontrar📱
