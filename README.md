@@ -12,10 +12,6 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=16&theme=blue-green"/>
 
-![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuellsf&repo=samuellsf&theme=react)](htttps://github.com/samuellsf/samuellsf).
-
-
 ### 📲onde me encontrar📱
 <a href = "mailto:samuel1990.sf.sf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/samuel-ferreira-61770224a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
