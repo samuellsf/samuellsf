@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=16&theme=blue-green"/>
+![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.svg)
 
 ### 📲onde me encontrar📱
 <a href = "mailto:samuel1990.sf.sf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
