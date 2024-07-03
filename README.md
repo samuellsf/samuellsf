@@ -1,8 +1,4 @@
 <div>
-
-https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
-
- 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Samuel%20Ferreira&fontColor=Blue%20Blue%20&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
 </div>
 
