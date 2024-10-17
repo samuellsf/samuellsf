@@ -46,17 +46,9 @@
 
  ## Sobre mim😎
 
->Explorando novas tecnologias e estudando Análise de Desenvolvimento de Sistemas pela faculdade Anhanguera Df
->certificações de cursos e Atualmente iniciante em Java pela Udemy. Tenho projetos no Github usando (HTML,CSS E JAVASPRINT)
->🎓 História de Usuário de acesso, cadastro e recuperação de senha.
-Configuração de variável de ambiente no Windows e Linux.
-Criação das tabelas "cfPers" "cfPersName" usando modelo "CERIF 1.6" (Utilizando datamodeler, mysql e Dbeaver)
-Acesso ssh ao servidor principal, zabbix, Git, Mysql,
-Estudando na Devquest _ Dev em Dobro _ Devsuperior _ Alura _ Udemy
-
->🌱 Aprendendo mais sobre: Java _Desenvolvimento de tabelas,MySql _ Sql _ Modelagem de Dados _ Git e Github _ HTML _ CSS _ JavaScript _ Desenvolvimento Web,
-Ambiente de configuração de trabalho.
-
+>Estudante com certificações na área de TI, Análise de Desenvolvimento de Sistemas,  Voluntario ativo no Projeto Pessoa Legal desde fevereiro de 2023 (referente LGPD Lei Geral de Proteção de Dados) -Atribuições: Criação de histórias de usuários com suas entidades e atributos, Modelagem em ER Diagrama e Entidades para desenvolvimento do projeto, Conhecimento em configuração em ambiente de trabalho, modelagem de dados, Html, Css e Java Script, Conhecimento em Git e Versionamento para Github, Clonagem de projetos, na linha de códigos, Conhecimento em SQL (tabelas com Create Table), Scrum, Linux, Java, Git, Github, Html, Css e JavaSprint, MySQL, Eclipse, Redmine, Criações de documentação, Desenvolvimento de tabelas e correções na IDE Eclipse, Visual Studio Code, Desenvolvimento Web, Configuração de variável de ambiente no Windows e Linux. Criação das tabelas "cfPers" cfPersName" usando modelo "CERIF 1.6", Trabalhando em um Projeto Pessoa Legal, Sou um Residente da LLam Tecnologia do Brasil, e uma empresa real em desenvolvimento de tarefas para 
+os alunos, onde podemos praticar na vida real como e que funciona
+uma empresa em relação as atividades propostas no dia-dia, todos aprendizados são acompanhado pelo Professor CEO Arquiteto Java Leandro Leal da LLAM,  @Leandro Leal no LinkedIn.
  <br/>
 
 
