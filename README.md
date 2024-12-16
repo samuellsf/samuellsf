@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+😎;Tenho+34+anos.;👨🏽‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+👨🏽‍💻📚;Sejam+Bem+Vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JheHVuYmdyZTdlODIzaXF2anNjcDhkYnRkdDhicjRqMnBjZDI5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
  <br/>
 <div>
   <a href="https://github.com/Samuellsf">
