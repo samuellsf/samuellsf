@@ -39,10 +39,26 @@
 
  ## Sobre mim😎
 
->Estudante com certificações na área de TI, Análise de Desenvolvimento de Sistemas, Fui voluntario  no Projeto Pessoa Legal desde fevereiro de 2023 até janeiro 2025 (referente LGPD Lei Geral de Proteção de Dados) -Atribuições: Criação de histórias de usuários com suas entidades e atributos, Modelagem em ER Diagrama e Entidades para desenvolvimento do projeto, Conhecimento em configuração em ambiente de trabalho, modelagem de dados, Html, Css e Java Script, Conhecimento em Git e Versionamento para Github, Clonagem de projetos, na linha de códigos, Conhecimento em SQL (tabelas com Create Table), Scrum, Linux, Java, Git, Github, Html, Css e JavaSprint, MySQL, Eclipse, Redmine, Criações de documentação, Desenvolvimento de tabelas e correções na IDE Eclipse, Visual Studio Code, Desenvolvimento Web, Configuração de variável de ambiente no Windows e Linux. Criação das tabelas "cfPers" cfPersName" usando modelo "CERIF 1.6", Trabalhei em um Projeto Pessoa Legal, Fui Residente da LLam Tecnologia do Brasil, que é uma empresa real em desenvolvimento de tarefas para 
-os alunos, onde podemos praticar na vida real como e que funciona
-uma empresa em relação as atividades propostas no dia-dia, todos aprendizados são acompanhado pelo Professor CEO Arquiteto Java Leandro Leal da LLAM,  @Leandro Leal no LinkedIn.
+>🎓 Estudante de Análise e Desenvolvimento de Sistemas, com certificações na área de TI e experiência prática em projetos acadêmicos e profissionais.
 
+📌 Entre fevereiro/2023 e janeiro/2025 participei do Projeto Pessoa Legal / LLam Tecnologia do Brasil, iniciativa real de desenvolvimento guiada pelo CEO e Arquiteto Java Leandro Leal, voltada para práticas em LGPD (Lei Geral de Proteção de Dados) e simulação de atividades de uma empresa de tecnologia.
+Minhas atribuições incluíram:Criação de histórias de usuários e modelagem de entidades (ER Diagramas).
+
+Desenvolvimento de tabelas em SQL e MySQL (incluindo uso do modelo CERIF 1.6).
+
+Documentação técnica e correções em código.
+
+Configuração de ambientes de trabalho (Windows/Linux).
+
+Versionamento com Git e GitHub.
+
+Desenvolvimento em HTML, CSS, JavaScript e Java.
+
+Práticas de Scrum e metodologias ágeis.
+
+💻 Ferramentas: Eclipse, Visual Studio Code, Redmine, GitHub.
+
+🚀 Busco sempre aplicar meus conhecimentos em projetos que unam aprendizado contínuo, boas práticas de desenvolvimento e colaboração em equipe.
 <br/>
 
 
