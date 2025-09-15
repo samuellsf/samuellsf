@@ -50,13 +50,13 @@ Documentação técnica e correções em código.
 
 Configuração de ambientes de trabalho (Windows/Linux).
 
-Versionamento com Git e GitHub.
+Versionamento com Git, Gitlab e GitHub.
 
-Desenvolvimento em HTML, CSS, JavaScript e Java.
+Desenvolvimento em HTML, CSS, JavaScript e Java, React.
 
 Práticas de Scrum e metodologias ágeis.
 
-💻 Ferramentas: Eclipse, Visual Studio Code, Redmine, GitHub.
+💻 Ferramentas: Eclipse, Visual Studio Code, Redmine,Git, Gitlab,GitHub.
 
 🚀 Busco sempre aplicar meus conhecimentos em projetos que unam aprendizado contínuo, boas práticas de desenvolvimento e colaboração em equipe.
 <br/>
