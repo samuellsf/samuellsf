@@ -47,15 +47,24 @@
 ---
 
 ## 📬 Conecte-se comigo
-<div align="center"> 
-  <a href="https://linkedin.com/in/samuel-ferreira-99766b36b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <a href="https://linkedin.com/in/samuel-ferreira-99766b36b" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:samuel1990.sf.sf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:samuel1990.sf.sf@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://github.com/samuellsf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/samuellsf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
