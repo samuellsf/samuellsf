@@ -40,8 +40,8 @@
 ## 🐍 Contribuições
 <div align="center">
   
-  ![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.gif)
-  
+ ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
