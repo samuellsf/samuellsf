@@ -48,16 +48,17 @@
 
 ## 📬 Conecte-se comigo
 <div align="center"> 
-  <a href="linkedin.com/in/samuel-ferreira-99766b36b" target="_blank">
+  <a href="https://linkedin.com/in/samuel-ferreira-99766b36b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:samuel1990.sf.sf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="github.com/samuellsf">
+  <a href="https://github.com/samuellsf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
 
 
 <br/>
