@@ -1,39 +1,64 @@
-<div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Samuel%20Ferreira&fontColor=Blue%20Blue%20&fontAlign=50&animation=scaleIn&textBg=false&reversal=false&section=header"/>
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=30&center=true&vCenter=blue&width=1000&lines=Olá,+Meu+nome+é+Samuel+Ferreira+😎;Tenho+34+anos.;👨🏽‍💻+Estou+Estudando+Análise+de+Desenvolvimento+de+Sistemas+👨🏽‍💻📚;Sejam+Bem+Vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
- 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JheHVuYmdyZTdlODIzaXF2anNjcDhkYnRkdDhicjRqMnBjZDI5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
- <br/>
-<div>
-  <a href="https://github.com/Samuellsf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=blue-green&theme=blue-green&include_all_commits=blue-green&count_private=blue-green"/>
+<div align="center">
+  <!-- Banner animado -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Samuel%20Ferreira&fontColor=ffffff&fontAlign=50&animation=twinkling&section=header"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=16&theme=blue-green"/>
+  <!-- Foto de perfil -->
+  <img width="180" height="180" src="https://github.com/user-attachments/assets/af102cc9-c14e-41ce-b4ce-c12c393fe33d" style="border-radius: 50%; margin-top: -80px; border: 4px solid #1976d2"/>
+  
+  <!-- Texto digitando -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+Ferreira+😎;Tenho+34+anos.;👨🏽‍💻+Estudante+de+ADS+e+Desenvolvedor+Front-End;Sejam+Bem-Vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
+</div>
 
-# ![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.gif)
+---
 
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=8&theme=blue-green"/>
+</div>
 
-## Tecnologias que eu uso no meu dia dia💻
-<div style="display: inline_block"><br/>
-<img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img aling="center" alt="microsoft excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img aling="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-<img aling="center" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-"/>
-<img aling="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img aling="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img aling="center" alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img aling="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-<img aling="center" alt="apache netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-"/>
-<img aling="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img aling="center" alt="intellij idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+---
+
+## 🚀 Tecnologias que eu uso no dia a dia 💻
+<div align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white"/>
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
+
+---
+
+## 🐍 Contribuições
+<div align="center">
+  
+  ![snake gif](https://github.com/samuellsf/samuellsf/blob/output/github-contribution-grid-snake.gif)
+  
+</div>
+
+---
+
+## 📬 Conecte-se comigo
+<div align="center"> 
+  <a href="linkedin.com/in/samuel-ferreira-99766b36b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:samuel1990.sf.sf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="github.com/samuellsf">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
 
 <br/>
 
