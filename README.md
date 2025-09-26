@@ -13,9 +13,13 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=8&theme=blue-green"/>
+  <img height="170em" 
+       src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  
+  <img height="170em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=8&theme=blue-green&cache_seconds=1800"/>
 </div>
+
 
 ---
 
