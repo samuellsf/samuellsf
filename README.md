@@ -11,13 +11,19 @@
 
 ---
 ## 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="170em" 
-       src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  
-  <img height="170em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=10&theme=blue-green"/>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img height="170em" 
+           src="https://github-readme-stats.vercel.app/api?username=Samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    </td>
+    <td>
+      <img height="170em" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellsf&layout=compact&langs_count=10&theme=blue-green"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
