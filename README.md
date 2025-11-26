@@ -4,7 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Samuel%20Ferreira&fontColor=ffffff&fontAlign=50&animation=twinkling&section=header"/>
 
 <!-- Foto de Perfil -->
-<img src="https://github.com/user-attachments/assets/af102cc9-c14e-41ce-b4ce-c12c393fe33d" width="180" height="180" style="border-radius: 50%; margin-top: -80px; border: 4px solid #1976d2"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af102cc9-c14e-41ce-b4ce-c12c393fe33d" 
+       width="200" 
+       style="mask: url(#mask); border-radius: 50%;" />
+</p>
+
 
 <!-- Texto Digitado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+35+anos.;👨🏽‍💻+Desenvolvedor+Front-End+Back-End+e+Estudante+de+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
