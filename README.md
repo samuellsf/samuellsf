@@ -17,10 +17,11 @@
 
 <div align="center">
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuellsf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellsf&layout=compact&langs_count=10&theme=blue-green"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuellsf&layout=compact&langs_count=10&theme=blue-green"/>
 </div>
+
 
 
 ---
