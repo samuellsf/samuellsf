@@ -92,7 +92,7 @@
 - Documentação técnica  
 - Correções de código  
 - Configuração de ambientes Windows/Linux  
-- Git, GitLab e GitHub  
+- Git, GitLab, GitHub e Eclipse IDE
 - Desenvolvimento em HTML, CSS, JavaScript, Java e React  
 - Scrum e metodologias ágeis  
 
