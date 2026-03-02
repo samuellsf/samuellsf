@@ -5,18 +5,13 @@
 
 <!-- Foto de Perfil -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af102cc9-c14e-41ce-b4ce-c12c393fe33d" 
-       width="200" 
-       style="mask: url(#mask); border-radius: 50%;" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="380">
 </p>
 
-
-<!-- Texto Digitado -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+35+anos.;👨🏽‍💻+Desenvolvedor+Web+e+Estudante+de+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
 
 </div>
 
----
 
 # 📊 Estatísticas do GitHub
 
@@ -28,7 +23,7 @@
 </div>
 
 
----
+
 
 # 🚀 Tecnologias que eu uso no dia a dia
 
@@ -48,7 +43,6 @@
 
 </div>
 
----
 
 # 🐍 Contribuições
 
@@ -57,8 +51,6 @@
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
 
 # 📬 Conecte-se comigo
 
@@ -78,7 +70,6 @@
 
 </div>
 
----
 
 # 😎 Sobre mim
 
@@ -96,16 +87,14 @@
 - Desenvolvimento em HTML, CSS, JavaScript, Java e React  
 - Scrum e metodologias ágeis  
 
-💻 Ferramentas: Eclipse, VS Code, Redmine, Git, GitLab, GitHub.
 
 🚀 Sempre buscando evolução contínua, boas práticas e colaboração em equipe.
 
----
 
 
 Versionamento com Git, Gitlab e GitHub.
 
-Desenvolvimento em HTML, CSS, JavaScript e Java, React.
+Desenvolvimento em HTML, CSS, JavaScript e Java, React.Node.js
 
 Práticas de Scrum e metodologias ágeis.
 
