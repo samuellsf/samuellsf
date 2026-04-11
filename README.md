@@ -92,9 +92,7 @@
 
 
 
-Versionamento com Git, Gitlab e GitHub.
-
-Desenvolvimento em HTML, CSS, JavaScript e Java, React.Node.js
+Versionamento com Git, Gitlab e Github 
 
 Práticas de Scrum e metodologias ágeis.
 
@@ -102,7 +100,7 @@ Práticas de Scrum e metodologias ágeis.
 
 🚀 Busco sempre aplicar meus conhecimentos em projetos que unam aprendizado contínuo, boas práticas de desenvolvimento e colaboração em equipe.
 
-✨ Obrigado por visitar meu perfil!  
+✨ Obrigado por visitar meu perfil, volte sempre!  
 <br/>
 
 
