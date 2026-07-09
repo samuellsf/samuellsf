@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="380">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+35+anos.;👨🏽‍💻+Desenvolvedor+Web+e+Estudante+de+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+35+anos.;👨🏽‍💻+Desenvolvedor+Web+e+Graduado+em+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 # 😎 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, com certificações em TI e experiência em projetos acadêmicos e profissionais.
+🎓 Graduado em  **Análise e Desenvolvimento de Sistemas**, com certificações em TI e experiência em projetos acadêmicos e profissionais.
 
 📌 Entre **fev/2023 e jan/2025**, participei do **Projeto Pessoa Legal / LLam Tecnologia do Brasil**, mentoria técnica liderada pelo CEO e Arquiteto Java **Leandro Leal**, com foco em:
 
