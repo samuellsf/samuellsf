@@ -3,7 +3,7 @@
 <!-- Banner Animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Samuel%20Ferreira&fontColor=ffffff&fontAlign=50&animation=twinkling&section=header"/>
 
-<!-- Foto de Perfil -->
+<!-- Foto / GIF de Perfil -->
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="380">
 </p>
@@ -11,7 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+35+anos.;👨🏽‍💻+Desenvolvedor+Web+e+Graduado+em+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
 
 </div>
-
 
 # 📊 Estatísticas do GitHub
 <div align="center">
@@ -22,9 +21,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellsf&layout=compact&langs_count=8&theme=tokyonight"
        alt="Linguagens mais utilizadas"/>
 </div>
-
-
-
 
 # 🚀 Tecnologias que eu uso no dia a dia
 
@@ -43,7 +39,6 @@
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
-
 
 # 🐍 Contribuições
 
@@ -71,37 +66,25 @@
 
 </div>
 
-
 # 😎 Sobre mim
 
-🎓 Graduado em  **Análise e Desenvolvimento de Sistemas**, com certificações em TI e experiência em projetos acadêmicos e profissionais.
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas e estudando uma Pós Graduação em Gestão de Logistica**, com certificações em TI e experiência em projetos acadêmicos e profissionais.
 
 📌 Entre **fev/2023 e jan/2025**, participei do **Projeto Pessoa Legal / LLam Tecnologia do Brasil**, mentoria técnica liderada pelo CEO e Arquiteto Java **Leandro Leal**, com foco em:
 
-- Criação de histórias de usuários  
-- Modelagem de entidades (ER Diagramas)  
-- Desenvolvimento SQL e MySQL (incluindo CERIF 1.6)  
-- Documentação técnica  
-- Correções de código  
-- Configuração de ambientes Windows/Linux  
-- Git, GitLab, GitHub e Eclipse IDE
-- Desenvolvimento em HTML, CSS, JavaScript, Java e React  
-- Scrum e metodologias ágeis  
+* Criação de histórias de usuários  
+* Modelagem de entidades (ER Diagramas)  
+* Desenvolvimento SQL e MySQL (incluindo CERIF 1.6)  
+* Documentação técnica  
+* Correções de código  
+* Configuração de ambientes Windows/Linux  
+* Versionamento com Git, GitLab, GitHub e Eclipse IDE  
+* Desenvolvimento em HTML, CSS, JavaScript, Java e React  
+* Práticas de Scrum e metodologias ágeis  
 
-
-🚀 Sempre buscando evolução contínua, boas práticas e colaboração em equipe.
-
-
-
-Versionamento com Git, Gitlab e Github 
-
-Práticas de Scrum e metodologias ágeis.
-
-💻 Ferramentas: Eclipse, Visual Studio Code, Redmine,Git, Gitlab,GitHub.
+💻 **Ferramentas:** Eclipse, Visual Studio Code, Redmine, Git, GitLab, GitHub.
 
 🚀 Busco sempre aplicar meus conhecimentos em projetos que unam aprendizado contínuo, boas práticas de desenvolvimento e colaboração em equipe.
 
 ✨ Obrigado por visitar meu perfil, volte sempre!  
 <br/>
-
-
