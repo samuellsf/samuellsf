@@ -15,10 +15,10 @@
 # 📊 Estatísticas do GitHub
 <div align="center">
   <img width="49%" height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=samuellsf&show_icons=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20de%20Samuel%20Ferreira&cache_seconds=0"
+       src="https://github-readme-stats.vercel.app/api?username=samuellsf&show_icons=true&theme=tokyonight&count_private=true"
        alt="Estatísticas do GitHub"/>
   <img width="49%" height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellsf&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=0"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellsf&layout=compact&langs_count=8&theme=tokyonight"
        alt="Linguagens mais utilizadas"/>
 </div>
 
