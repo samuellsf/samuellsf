@@ -14,12 +14,7 @@
 
 # 📊 Estatísticas do GitHub
 <div align="center">
-  <img width="49%" height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=samuellsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-       alt="Estatísticas do GitHub"/>
-  <img width="49%" height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellsf&layout=compact&langs_count=8&theme=tokyonight"
-       alt="Linguagens mais utilizadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuellsf&theme=tokyonight&background=18181b&border=27272a&fire=f59e0b&ring=3b82f6&sideNums=ffffff&dates=94a3b8" alt="GitHub Streak" />
 </div>
 
 # 🚀 Tecnologias que eu uso no dia a dia
