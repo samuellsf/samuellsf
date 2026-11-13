@@ -8,13 +8,13 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="380">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+35+anos.;👨🏽‍💻+Desenvolvedor+Web+e+Graduado+em+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=28&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Samuel+😎;Tenho+36+anos.;👨🏽‍💻+Desenvolvedor+Web+e+Graduado+em+ADS;Sejam+Bem-vindos!+🙋🏽‍♂️)](https://git.io/typing-svg)
 
 </div>
 
 # 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuellsf&theme=tokyonight&background=18181b&border=27272a&fire=f59e0b&ring=3b82f6&sideNums=ffffff&dates=94a3b8" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuellsf&theme=github_dark" alt="Profile Details" />
 </div>
 
 # 🚀 Tecnologias que eu uso no dia a dia
